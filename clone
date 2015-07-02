@@ -1,1 +1,4 @@
-Explain what git clone does, in your own words
+git clone works in the format "git clone URL"
+
+git clone allows you to clone (copy) a repository from location URL     
+the "clone" is then placed in the current directory 
